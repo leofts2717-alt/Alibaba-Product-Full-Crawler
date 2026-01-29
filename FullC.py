@@ -7,7 +7,7 @@ import time
 from datetime import datetime
 
 # ================= 配置区 =================
-CSV_FILE_PATH = r"C:\Users\wlh03\Desktop\AliMonitor\resultFC.csv"
+CSV_FILE_PATH = r"C:\Users\YourName\Desktop\AliMonitor\resultFC.csv"
 TARGET_URL_KEYWORD = "manage_products" # 认准这个关键词
 # =========================================
 
