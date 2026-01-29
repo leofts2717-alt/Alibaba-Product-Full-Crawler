@@ -1,4 +1,3 @@
-# Alibaba-Product-Full-Crawler
 # 🚀 AliFullCrawler - 阿里国际站全量商品抓取工具 (V3.0)
 
 **AliFullCrawler** 是 AliMonitor 套件中的核心组件之一。它被设计用于**初次建立数据库**或**定期进行全店商品盘点**。
